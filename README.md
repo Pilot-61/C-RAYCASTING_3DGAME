@@ -13,6 +13,7 @@ A raycasting-based 3D maze game inspired by the classic Wolfenstein 3D, created 
 - [Map Format](#map-format)
 - [Controls](#controls)
 - [Bonus Features](#bonus-features)
+- [Contributors](#contributors)
 - [Troubleshooting](#troubleshooting)
 
 ## About
@@ -166,6 +167,11 @@ To compile and run the bonus version:
 make bonus
 ./cub_bonus bonus/bonus_maps/example.cub
 ```
+
+## Contributors
+
+- [Pilot-61](https://github.com/Pilot-61)
+- [Houda-zahri](https://github.com/Houda-zahri)
 
 ## Troubleshooting
 
