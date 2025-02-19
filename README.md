@@ -2,8 +2,6 @@
 
 A raycasting-based 3D maze game inspired by the classic Wolfenstein 3D, created as part of the 42 school curriculum. This project implements a first-person perspective renderer inside a maze using raycasting techniques.
 
-![cub3D Preview](https://via.placeholder.com/800x400?text=cub3D+Preview)
-
 ## Table of Contents
 - [About](#about)
 - [Features](#features)
